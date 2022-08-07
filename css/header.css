@@ -17,9 +17,9 @@ header{
 #header-img{
     width: 100px;
 }
-#nav-bar{
-    display: inline !important ;
-    margin: 15px;
+#nav-bar li{
+    display: inline;
+    margin: 35px;
 }
 
 

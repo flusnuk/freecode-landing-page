@@ -3,3 +3,6 @@ footer {
     align-items:flex-end;
     display: flex;
 }
+footer li {
+    display: inline;
+}
