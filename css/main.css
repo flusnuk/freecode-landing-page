@@ -1,28 +1,69 @@
 #icon img {
     width: 35px;
+
 }
-#top-section-input{
-    text-align: center;
-}
-#top-section-btn{
-    justify-content: center;
-}
+.top-section{
+    padding: 20px;
+    display: flex;
+    justify-content:center;
+}  
+
 .product{
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    border: 1px solid #000;
+    width: 250px;
+    height: 320px;
+    margin: 12px;
+    border: 2px solid #000;
     border-radius: 3px;
-    padding: 25px;
+    
 }
 .btn {
     padding-top: 10px;
-    margin-top: 70px;
+    margin-top: 15px;
+    background-color: #B0C4DE;
+    color: black;
+    font-weight: 700;
+    font-family: 'Bree Serif', serif;
+    text-transform: uppercase;
+    width: 120px;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 0 20px;
+    height: 40px;
+    cursor: pointer;
+}
+.how-section{
+    padding-top: 60px;
+    justify-content: center;
+    display: flex;
 }
 .bottom-section{
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 60px;
+}
+.level{
+    background-color: #B0C4DE;
+    color: black;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+h2{
+    padding-bottom: 2px;
+}
+.product li {
+    padding-top: 3px;
+}
+.middle-section{
+    width: 1000px;
+    display: flex;
+    padding-left: 200px;
+    flex-direction: column;
+    text-align: left;
 }

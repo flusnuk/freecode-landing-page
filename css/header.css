@@ -25,6 +25,15 @@ header{
 #form-start{
     margin-top: 20px;
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
 }
-
+#top-section-input{
+    padding: 15px;
+}
+#top-input{
+    height: 35px;
+    border-radius: 7px;
+}
 

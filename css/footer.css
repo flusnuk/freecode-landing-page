@@ -1,8 +1,14 @@
 footer {
     background-color: #EEe;
-    align-items:flex-end;
     display: flex;
+    width: auto;
+    height: 60px;
+    margin-top: 70px;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
 }
-footer li {
+footer li{
     display: inline;
+    margin: 7px;
 }
