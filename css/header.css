@@ -20,7 +20,11 @@ header{
 #nav-bar li{
     display: inline;
     margin: 35px;
-    
+    padding: 35px;
+}
+#form-start{
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 
